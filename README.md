@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="src/assets/Capture.PNG" alt="Logo" width="100%">
+</div>
+
 Formulaire d'inscription avec validation et aperçu d'image en React
 Ce projet est une application de formulaire d'inscription développée en React avec react-hook-form pour la gestion des formulaires et la validation. Le formulaire inclut plusieurs fonctionnalités avancées telles que :
 
