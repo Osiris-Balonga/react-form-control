@@ -1,6 +1,7 @@
 <div align="center">
     <img src="src/assets/Capture.PNG" alt="Logo" width="100%">
 </div>
+[FlixFinder Netlify Link](https://osiris-balonga.github.io/react-form-control/)
 
 # React Registration Form with Advanced Validation
 
