@@ -2,9 +2,14 @@
   "name": "react-form-control",
   "private": true,
   "version": "0.0.0",
+  "author": "Osiris Balonga",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "clean": "gh-pages-clean",  
+    "predeploy": "pnpm run build",
+    "deploy": "gh-pages -d dist",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
